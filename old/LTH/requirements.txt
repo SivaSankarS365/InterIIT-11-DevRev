@@ -1,0 +1,10 @@
+Pillow
+torch
+torchtext
+datasets
+evaluate
+transformers
+numpy
+pandas
+pyprind
+gdown
